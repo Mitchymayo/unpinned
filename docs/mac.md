@@ -4,7 +4,7 @@ Status: **tested** (Apple silicon, macOS 27).
 
 ## Install
 ```bash
-git clone https://github.com/<you>/unpinned.git ~/unpinned
+git clone https://github.com/Mitchymayo/unpinned.git ~/unpinned
 cd ~/unpinned
 bash install/macos.sh        # first run creates config.json, then stops
 ```
